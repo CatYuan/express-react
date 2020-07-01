@@ -1,6 +1,6 @@
-# Express-React Tutorial
+# Express-React
 
-Serves the Express backend and the React single page app front end from the same application.
+Provides boilerplate. Serves the Express backend and the React single page app front end from the same application.
 Based off of [this](https://medium.com/@lowewenzel/serving-express-with-a-react-single-page-app-within-the-same-application-c168f1c44201) guide.
 
 Built from create-react-app and express-generator
